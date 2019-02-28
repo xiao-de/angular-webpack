@@ -16,3 +16,5 @@ Build with npm run build
 Build dev with npm run build:dev
 
 ```
+详细说明：
+https://segmentfault.com/a/1190000011881480
